@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.project {
+    width: 30%; /* Adjust the width as needed */
+    max-width: 200px; /* Adjust the maximum width as needed */
+}
+
+#insert {
+    background-color: #3c3c3c;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.key {
+    font-size: 18px;
+    text-align: center;
+    /* color: #333; */
+}
